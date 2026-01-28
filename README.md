@@ -6,5 +6,7 @@ This is arya here!
 
 Trying to learn github methods!
 
+## Local Development
 
+1) Open index.html in your browser.
 
